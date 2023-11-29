@@ -14,10 +14,8 @@ git clone https://github.com/pjimenez11/patricio-jimenez-portfolio.git
 
 Make sure you have the following installed:
 
-```
-Web browser
-Code editor (e.g., Visual Studio Code)
-```
+* Web browser
+* Code editor (e.g., Visual Studio Code)
 
 ### Installing
 
